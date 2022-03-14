@@ -1,2 +1,2 @@
 # piText
- 2-player game to help you learn pi competitively.
+ Simple python game to build up your knowledge of pi.
